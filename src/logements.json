@@ -1,8 +1,8 @@
 [
 	{
 		"id": "c67ab8a7",
-		"title": "Appartement cosy",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
+		"title": "Les Maldives",
+		"cover": "https://i.ibb.co/cY5nyP0/florian-wehde-x-W9e8gdotx-I-unsplash.webp",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-20-2.jpg",
@@ -31,8 +31,8 @@
 	},
 	{
 		"id": "b9123946",
-		"title": "Magnifique appartement proche Canal Saint Martin",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
+		"title": "Bora Bora ",
+		"cover": "https://i.ibb.co/t4bYdkR/kevin-hikari-r-V-Qd1l-VXg-unsplash.webp",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-1-2.jpg",
@@ -64,8 +64,8 @@
 	},
 	{
 		"id": "46d188c5",
-		"title": "Studio de charme - Buttes Chaumont",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
+		"title": "Les îles Fidji ",
+		"cover": "https://i.ibb.co/r400zJB/kilyan-sockalingum-NR8-c-BCN3a-I-unsplash.webp",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-2-2.jpg",
@@ -94,7 +94,7 @@
 	{
 		"id": "7af00cd6",
 		"title": "Nid douillet au coeur du 11ème",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
+		"cover": "https://i.ibb.co/74xksGD/lena-paulin-w-H2-EJo-Dc-V0-unsplash.webp",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-3-2.jpg",
@@ -103,7 +103,7 @@
 		],
 		"description": "Venez découvrir Paris en séjournant dans ce nid douillet au coeur du 11ème. La vue sur le parc résidentiel saura vous reposer de vos longues journées de tourisme dans la capitale française. Et pour les plus fêtards d'entre vous, la rue Jean Pierre Timbaud vous permettra de découvrir la night-life parisienne à seulement 5 minutes de l'appartement.",
 		"host": {
-			"name": "Della Case",
+			"name": "Les Seychelles",
 			"picture": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/profile-picture-1.jpg"
 		},
 		"rating": "3",
@@ -124,8 +124,8 @@
 	},
 	{
 		"id": "0979876d",
-		"title": "Appartement de Standing - 10e",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
+		"title": "Hawaii ",
+		"cover": "https://i.ibb.co/hm8d8XG/paul-hermann-QFTr-Ld-QIRh-I-unsplash.webp",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-4-2.jpg",
@@ -155,8 +155,8 @@
 	},
 	{
 		"id": "f72a452f",
-		"title": "Studio d'artiste",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-1.jpg",
+		"title": "La Polynésie française ",
+		"cover": "https://i.ibb.co/P1ztchC/reno-laithienne-QUg-Jhd-Y5-Fyk-unsplash.webp",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-5-2.jpg",
@@ -183,8 +183,8 @@
 	},
 	{
 		"id": "b4c67936",
-		"title": "Cheap - Studio 18ème",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
+		"title": "La Thaïlande ",
+		"cover": "https://images.unsplash.com/photo-1678991198241-e33645c5d33d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=413&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-6-2.jpg",
@@ -214,8 +214,8 @@
 	},
 	{
 		"id": "bc6f7112",
-		"title": "Superbe appartement proche Tour Eiffel",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-1.jpg",
+		"title": "Les Caraïbes ",
+		"cover": "https://images.unsplash.com/photo-1678985690958-7501a47dad7f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-7-2.jpg",
@@ -248,8 +248,8 @@
 	},
 	{
 		"id": "cb2f9222",
-		"title": "Suite familiale",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-1.jpg",
+		"title": "Les îles Canaries",
+		"cover": "https://images.unsplash.com/photo-1678985690723-e1d55583627e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-8-2.jpg",
@@ -279,8 +279,8 @@
 	},
 	{
 		"id": "d60ca600",
-		"title": "Appartement moderne sur parc",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-9-1.jpg",
+		"title": "Les îles Grecques ",
+		"cover": "https://images.unsplash.com/photo-1678653300212-7fbd1ddd1902?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-9-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-9-2.jpg",
@@ -311,8 +311,8 @@
 	},
 	{
 		"id": "2cf259e1",
-		"title": "Charmant Studio Marais",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-1.jpg",
+		"title": "Les îles Vierges britanniques ",
+		"cover": "https://images.unsplash.com/photo-1678924601986-3ccc3ebc7f4f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=955&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-10-2.jpg",
@@ -340,8 +340,8 @@
 	},
 	{
 		"id": "5323c29b",
-		"title": "Studio fonctionnel République",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-11-3.jpg",
+		"title": "Les îles Cook ",
+		"cover": "https://images.unsplash.com/photo-1678712507648-a2ade74f1004?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1036&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-11-3.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-11-2.jpg",
@@ -373,8 +373,8 @@
 	},
 	{
 		"id": "af6d2d48",
-		"title": "Bungalow dans la forêt",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-12-1.jpg",
+		"title": "Les Bahamas",
+		"cover": "https://images.unsplash.com/photo-1678960445719-a672e74d976e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1065&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-12-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-12-2.jpg",
@@ -404,8 +404,8 @@
 	},
 	{
 		"id": "7cbb378e",
-		"title": "Grande Maison proche banlieue",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-13-2.jpg",
+		"title": "Les îles Bali",
+		"cover": "https://images.unsplash.com/photo-1678954129535-9f0d186570ea?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2166&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-13-2.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-13-3.jpg",
@@ -438,8 +438,8 @@
 	},
 	{
 		"id": "ba55a0cc",
-		"title": "Maison T5 - Le Vésinet",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-1.jpg",
+		"title": "Les îles Turks et Caïques",
+		"cover": "https://images.unsplash.com/photo-1678872590530-181ff9b5db92?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1771&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-14-2.jpg",
@@ -474,8 +474,8 @@
 	},
 	{
 		"id": "1e181317",
-		"title": "Loft de Luxe à la Défense",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-1.jpg",
+		"title": "Les îles de la société",
+		"cover": "https://images.unsplash.com/photo-1678811118543-14d19cb00508?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=988&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-15-2.jpg",
@@ -507,8 +507,8 @@
 	},
 	{
 		"id": "1e180563",
-		"title": "Charmant apt aux portes de Paris",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-16-1.jpg",
+		"title": "Les îles des Canaries",
+		"cover": "https://images.unsplash.com/photo-1678729465114-a9a2b955d4c7?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1770&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-16-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-16-2.jpg",
@@ -538,8 +538,8 @@
 	},
 	{
 		"id": "2139a317",
-		"title": "Cheap - Chambre Paris 20",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-17-1.jpg",
+		"title": "Les îles de la Barbade ",
+		"cover": "https://images.unsplash.com/photo-1678794105178-be9db45ac247?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-17-1.jpg"
 		],
@@ -562,8 +562,8 @@
 	},
 	{
 		"id": "6ff132c6",
-		"title": "Charmant studio",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-18-1.jpg",
+		"title": "Les îles Malouines",
+		"cover": "https://images.unsplash.com/photo-1678792340593-f8692e76e46d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-18-1.jpg",
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-18-2.jpg",
@@ -591,8 +591,8 @@
 	},
 	{
 		"id": "cb02d69b",
-		"title": "Magnifique appartement Rivoli",
-		"cover": "https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-19-1.jpg",
+		"title": "Les îles Galápagos",
+		"cover": "https://images.unsplash.com/photo-1678829687532-015405317abc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80",
 		"pictures": [
 			"https://s3-eu-west-1.amazonaws.com/course.oc-static.com/projects/front-end-kasa-project/accommodation-19-1.jpg"
 		],

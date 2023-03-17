@@ -2,7 +2,7 @@ import React from "react";
 
 function Privacy() {
   return (
-    <p className="privacy">© 2020 Kasa. All rights reserved</p>
+    <p className="privacy">© 2022 Booki. All rights reserved</p>
   );
 }
 

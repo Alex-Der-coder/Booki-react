@@ -6,11 +6,15 @@ footer{
     margin-bottom: -1rem;
     margin-top: 105rem;
     .logo {
-    background-repeat: no-repeat;
-    background-size: contain;
-    align-self: center;
-}        
-    }
+        background-repeat: no-repeat;
+        background-size: contain;
+        align-self: center;
+        height: 40%;
+        margin-top: 0px;
+        margin-left: 5%;
+        width: 9%;
+    }        
+}
 
 #page_end {
     display: flex;
