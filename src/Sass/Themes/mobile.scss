@@ -25,9 +25,6 @@
         margin-left: -10px;
         margin-top: 25px;
     }
-    /*test for banner */
-    
-    
     
     .section1::before {
         content: '';
@@ -66,7 +63,7 @@
     .collapse-header {
         position: relative;
         height: 47px;
-        background: #ff6060;
+        background: #0065FC;;
         display: flex;
         align-items: center;
         justify-content: left;
@@ -74,8 +71,8 @@
         cursor: pointer;
         padding-left: 15px;
         color: #ffffff;
+        margin-top: 20%;
     }
-    
     
     .collapse-content {
         background: #f6f6f6;
@@ -94,7 +91,7 @@
         text-align: center;
         font-family: 'Montserrat';
         font-weight: 400;
-        color: #ff6060;
+        color: #0065FC;
     }
     
     .collapse-container .content {
@@ -133,7 +130,7 @@
     }
     
     footer .logo {
-        margin-left: 15%;
+        width: 50%;
     }
     .privacy {
         width: 100%;
@@ -217,20 +214,20 @@
     
     .round-image {
         left: 75%;
-        top: 119%;
+        top: 114%;
         position: absolute;
     }
     
     .host {
         width: 78.2px;
-        left: 52%;
-        top: 119%;
+        top: 118%;
         position: absolute;
+        margin-top: -7%;
+        left: 46%;
     }
     
-    
     .footer-logo {
-        background-image : url(../images/kasa_white_logo_mobile.svg)
+        background-image : url(../images/Booki_mobile.svg)
         
         
     }
