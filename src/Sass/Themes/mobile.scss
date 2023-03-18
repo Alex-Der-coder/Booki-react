@@ -3,12 +3,12 @@
         width: 100%;
     }
     .logo {
-        background-image: url("../images/Logo_mobile.svg");
+        background-image: url("../images/Booki_mobile.svg");
         background-repeat: no-repeat;
         width: 275px;
         font-size: 12px;
-        margin-left: -15px;
-        margin-top: 15px;
+        margin-left: -5%;
+        margin-top: 12%;
     }
     nav {
         width: 31%;
@@ -196,19 +196,19 @@
     .tags {
         width: 100%;
         font-size: 12px;
-      
+        
     }
-
+    
     .content_collapse .collapse-container {
         margin-bottom: 2rem;
         width: 100%;
         margin-top: 13%;
-      }    
+    }    
     .content_collapse  {
-    flex-direction: column;
-    width: 100%;
-}
-
+        flex-direction: column;
+        width: 100%;
+    }
+    
     .rating-stars {
         font-size: 20px;
         margin-left: -62%;
@@ -226,7 +226,7 @@
         left: 52%;
         top: 119%;
         position: absolute;
-      }
+    }
     
     
     .footer-logo {
@@ -238,7 +238,7 @@
     footer {
         margin-top: 400rem;
     }
-
+    
     .gallery_404 {
         width: 75%;
     }
