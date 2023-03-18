@@ -14,16 +14,16 @@ function About() {
         </div>
       </div>
       <div className="content">
-        <Collapse title="Fiabilité">
+        <Collapse title="Fiabilité" isInitiallyOpen={true} >
           <p>Les annonces postées sur Kasa garantissent une fiabilité totale. Les photos sont conformes aux logements, et toutes les informations sont régulièrement vérifiées par nos équipes.</p>
         </Collapse>
-        <Collapse title="Respect" isInitiallyOpen={false}>
-          <p>La bienveillance fait partie des valeurs fondatrices de Kasa. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme.</p>
+        <Collapse title="Respect" isInitiallyOpen={true}>
+          <p>La bienveillance fait partie des valeurs fondatrices de Booki. Tout comportement discriminatoire ou de perturbation du voisinage entraînera une exclusion de notre plateforme.</p>
         </Collapse>
-        <Collapse title="Service">
-          <p>La sécurité est la priorité de Kasa. Aussi bien pour nos hôtes que pour les voyageurs, chaque logement correspond aux critères de sécurité établis par nos services. En laissant une note aussi bien à l'hôte qu'au locataire, cela permet à nos équipes de vérifier que les standards sont bien respectés. Nous organisons également des ateliers sur la sécurité domestique pour nos hôtes.</p>
+        <Collapse title="Service" isInitiallyOpen={true} >
+          <p>La sécurité est la priorité de Booki. Aussi bien pour nos hôtes que pour les voyageurs, chaque logement correspond aux critères de sécurité établis par nos services. En laissant une note aussi bien à l'hôte qu'au locataire, cela permet à nos équipes de vérifier que les standards sont bien respectés. Nous organisons également des ateliers sur la sécurité domestique pour nos hôtes.</p>
         </Collapse>
-        <Collapse title="Responsabilité">
+        <Collapse title="Responsabilité" isInitiallyOpen={true} >
           <p>Nous nous engageons à vous fournir des logements de qualité, des vérifications d'identités et des avis vérifiés. Nous sommes là pour vous aider à voyager en toute confiance.</p>
         </Collapse>
       </div>
