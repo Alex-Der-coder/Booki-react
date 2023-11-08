@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Alex-Der-coder/Booki-react/static/css/main.7fb9f0a1.css",
-    "main.js": "/Alex-Der-coder/Booki-react/static/js/main.b217c75d.js",
-    "static/media/Montserrat-Bold.ttf": "/Alex-Der-coder/Booki-react/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
-    "static/media/Montserrat-Regular.ttf": "/Alex-Der-coder/Booki-react/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
-    "static/media/IMG.avif": "/Alex-Der-coder/Booki-react/static/media/IMG.bbbc61caef1078e3e28a.avif",
-    "static/media/Oups_mobile.svg": "/Alex-Der-coder/Booki-react/static/media/Oups_mobile.9eef5651003f67e46ea1.svg",
-    "static/media/Booki_mobile.svg": "/Alex-Der-coder/Booki-react/static/media/Booki_mobile.c4aa48d84a818225c69a.svg",
-    "static/media/404_desktop.svg": "/Alex-Der-coder/Booki-react/static/media/404_desktop.e76d89db58d109bc4061.svg",
-    "static/media/404_mobile.svg": "/Alex-Der-coder/Booki-react/static/media/404_mobile.2b99f720d9320a834b4e.svg",
-    "index.html": "/Alex-Der-coder/Booki-react/index.html",
-    "main.7fb9f0a1.css.map": "/Alex-Der-coder/Booki-react/static/css/main.7fb9f0a1.css.map",
-    "main.b217c75d.js.map": "/Alex-Der-coder/Booki-react/static/js/main.b217c75d.js.map"
+    "main.css": "/Alex-Der-coder/static/css/main.00065e68.css",
+    "main.js": "/Alex-Der-coder/static/js/main.b217c75d.js",
+    "static/media/Montserrat-Bold.ttf": "/Alex-Der-coder/static/media/Montserrat-Bold.2c155811b35513d5beaa.ttf",
+    "static/media/Montserrat-Regular.ttf": "/Alex-Der-coder/static/media/Montserrat-Regular.ceb11275ab638627a643.ttf",
+    "static/media/IMG.avif": "/Alex-Der-coder/static/media/IMG.bbbc61caef1078e3e28a.avif",
+    "static/media/Oups_mobile.svg": "/Alex-Der-coder/static/media/Oups_mobile.9eef5651003f67e46ea1.svg",
+    "static/media/Booki_mobile.svg": "/Alex-Der-coder/static/media/Booki_mobile.c4aa48d84a818225c69a.svg",
+    "static/media/404_desktop.svg": "/Alex-Der-coder/static/media/404_desktop.e76d89db58d109bc4061.svg",
+    "static/media/404_mobile.svg": "/Alex-Der-coder/static/media/404_mobile.2b99f720d9320a834b4e.svg",
+    "index.html": "/Alex-Der-coder/index.html",
+    "main.00065e68.css.map": "/Alex-Der-coder/static/css/main.00065e68.css.map",
+    "main.b217c75d.js.map": "/Alex-Der-coder/static/js/main.b217c75d.js.map"
   },
   "entrypoints": [
-    "static/css/main.7fb9f0a1.css",
+    "static/css/main.00065e68.css",
     "static/js/main.b217c75d.js"
   ]
 }
